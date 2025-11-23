@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NumiScanAI</string>
+    <string name="title_activity_main">NumiScanAI</string>
+    <string name="package_name">com.sklep.bibeloty.numiscanai.app</string>
+    <string name="custom_url_scheme">com.sklep.bibeloty.numiscanai.app</string>
+</resources>

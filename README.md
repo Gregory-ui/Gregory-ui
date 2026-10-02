@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="numistudio-logo.png" width="110" height="110" alt="NumiStudio AI Logo" />
+  <a href="https://numistudioai.pl/#aplikacja">
+    <img src="numistudio-showcase.gif" width="100%" alt="NumiStudio AI 3D Showcase Banner" />
+  </a>
 
-  # 🏛️ NumiStudio AI Ecosystem
-  
-  **Sztuczna Inteligencja dla Numizmatyki, Notafilii i Historii**  
-  *„Skarby, które mają głos • Łączymy historię z najnowszą technologią AI”*
-
-  <br />
+  <br /><br />
 
   [![Strona Główna](https://img.shields.io/badge/Oficjalny%20Portal-numistudioai.pl-d4af37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://numistudioai.pl)
   [![Aplikacja Android](https://img.shields.io/badge/Aplikacja-Mobilna%20AI-00C853?style=for-the-badge&logo=android&logoColor=white)](https://numistudioai.pl/#aplikacja)
+  [![Notafilia](https://img.shields.io/badge/Notafilia-Banknoty%20AI-FFA000?style=for-the-badge&logo=cashapp&logoColor=black)](https://numistudioai.pl/#banknoty)
   [![YouTube](https://img.shields.io/badge/YouTube-@KolekcjeMonetyBibeloty-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KolekcjeMonetyBibeloty)
 
 </div>

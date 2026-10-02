@@ -1,7 +1,0 @@
-{
-  "name": "Copy of Pracuje 20 NumiScanAI: Analizator Numizmatyczny i Notafilistyczny",
-  "description": "Prześlij zdjęcie monety lub banknotu, aby uzyskać szczegółową analizę stanu, identyfikację i wycenę przy użyciu AI Gemini. Aplikacja oceni kondycję, wykryje błędy i wskaże wszelkie anomalie.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
